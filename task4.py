@@ -47,7 +47,7 @@
 # masha == sasha
 
 
-# task 4
+# task 3
 
 # class Complex(object):
 #     def __init__(self, real, imaginary):
